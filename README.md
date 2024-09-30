@@ -56,19 +56,11 @@ A powerful Discord bot designed to facilitate Dungeons & Dragons gameplay for bo
    ```bash
    python main.py
    ```
-
-## Hosting
-
-To keep the bot running 24/7, deploy it to a cloud service like:
-- **Heroku**: [Heroku Deployment Guide](https://devcenter.heroku.com/articles/getting-started-with-python)
-- **Replit**: [Replit Guide](https://replit.com)
-
-Make sure to set your environment variables (e.g., `DISCORD_TOKEN`) in the hosting service’s settings.
-
+   
 ## Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have suggestions or bug reports.
 
 ## License
 
-This project is licensed under the GNL v3 License.
+This project is licensed under the GNU General Public License v3.0.
